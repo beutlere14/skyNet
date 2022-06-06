@@ -1,0 +1,3 @@
+﻿  SkyNet.cpp
+C:\Users\15204\source\repos\SkyNet\SkyNet\SkyNet.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SkyNet.vcxproj -> C:\Users\15204\source\repos\SkyNet\x64\Debug\SkyNet.exe
